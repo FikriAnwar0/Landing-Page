@@ -61,7 +61,7 @@ Saya mengembangkan proyek ini dengan visi untuk memberikan solusi gratis dan ter
 
 ## 📷 Preview Tampilan
 
-![Preview Landing Page](assets/image.png)
+![Preview Landing Page](assets/landing-page.png)
 
 ## 🛠️ Kontribusi
 
