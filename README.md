@@ -35,6 +35,7 @@ Saya mengembangkan proyek ini dengan visi untuk memberikan solusi gratis dan ter
 📂 project-folder
 ├── 📄 index.html    # Halaman utama
 ├── 📂 assets        # Folder untuk gambar & ikon
+│   ├── landing-preview.png  # Gambar preview landing page
 ├── 📄 style.css     # File styling utama
 ├── 📄 script.js     # File JavaScript utama
 ├── 📄 README.md     # Dokumentasi proyek
@@ -60,7 +61,7 @@ Saya mengembangkan proyek ini dengan visi untuk memberikan solusi gratis dan ter
 
 ## 📷 Preview Tampilan
 
-![Preview Landing Page](https://via.placeholder.com/1200x600)
+![Preview Landing Page](assets/image.png)
 
 ## 🛠️ Kontribusi
 
@@ -83,3 +84,4 @@ Jika ada pertanyaan, saran, atau ingin berdiskusi lebih lanjut mengenai proyek i
 Proyek ini dilisensikan di bawah **Lisensi MIT**, yang berarti **siapa saja boleh menggunakan, mengedit, mendistribusikan, dan mengembangkan proyek ini tanpa batasan**.
 
 Tidak ada kewajiban atribusi, tetapi jika Anda ingin memberikan kredit atau berbagi pengalaman dalam menggunakan proyek ini, saya akan sangat menghargainya! 😊
+
