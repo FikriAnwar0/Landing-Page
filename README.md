@@ -2,6 +2,9 @@
 
 Selamat datang di repositori **Landing Page EcoBrand**! 🚀
 
+![image](https://github.com/user-attachments/assets/41d8f5c5-e4c8-4cdc-be8a-3c08258be227)
+![image](https://github.com/user-attachments/assets/0cb5d34d-58be-48a2-8e47-5cc505c06284)
+
 ## 📌 Deskripsi
 
 EcoBrand adalah landing page modern yang interaktif, responsif, dan dirancang untuk memberikan pengalaman pengguna terbaik. Dengan desain elegan, performa optimal, serta teknologi canggih, EcoBrand sangat cocok digunakan oleh bisnis, startup, maupun proyek personal yang ingin tampil profesional di dunia digital.
